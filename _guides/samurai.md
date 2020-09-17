@@ -6,4 +6,5 @@ excerpt_separator: <!--more-->
 ---
 Press Midare
 <!--more-->
-Guide starts
+
+<h3> The Opener </h3>

@@ -39,7 +39,11 @@ your second sen. You may want to move a little further back until you can make s
 Goken. During the cast time start mashing Hissatsu: Guren. If all goes right you will straight up nuke all the plumes. Take a look at your parse overlay you should be at around
 10-14k dps if you hit all the adds. Hit a Hakaze on Garuda and then mash Jinpu and hope you didnt delay any GCDs. If it doesn't hit then target the Spiny Plume and hit it with a Jinpu,
 Right as the Jinpu hits, Garuda will screech and go untargetable. Move for the feather rain. You may need to inform your tank that you will be using a GCD on the spiny since
-it does do a significant amount of damage.  
+it does do a significant amount of damage.
+
+The opener up to this point looks like this:
+
+![Ultima Weapon Ultimate Samurai Opener](/main/assets/uwu_opener.png)
 
 Garuda comes back. Position yourself north with the tank. Finish with Gekko to end the combo. Weave third eye after the Gekko for the Mistral Song then move into where ever the bubble was dropped by the Spiny Plume 
 and carry on with your rotation. (Hakaze, Yukikaze) but weave your Hissatsu: Seigan somewhere in between. Move out of the bubble when you see the start of the Friction cast and
