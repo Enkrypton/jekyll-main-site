@@ -27,46 +27,45 @@ So I say your best bet is fast sam with the 2.00 GCD is you are too lazy to farm
 <h3> Garuda </h3>
 This is probably the easist place to pad.
 
+Sprint when you see the countdown change from 2 to 1. Then make sure you hit the boss as early as possible without early pulling.
 Depending on how your group does it, move to opposite of the OT to avoid the line attack and dodge the green tornado AoE afterwards. This is during your opener which is
 the EXACT same as the level 80 opener but you must save your Hissatsu: Guren here. This is your AoE line attack that does 850 potency with a 120 second cooldown which also costs
 50 kenki. You lose your Hissatsu: Senei at level 70 but in both Garuda and Ifrit using Hissatsu: Guren is better so its not really a big deal. 
 
 You will finish your opener and at this time the plumes will spawn and move right as you hit your Gekko. As the plumes move towards the party you will be in your GCD so start
-mashing your Fuga right away while moving slightly more behind the party. You will have lots of kenki at this since you saved your Hissatsu: Guren. It will be tempting to use
+mashing your Fuga right away while moving slightly more behind the party. You will have 90 Kenki at this point since you saved your Hissatsu: Guren. It will be tempting to use
 Shinten but don't. You will hit most or all of the plumes if you moved slightly behind the party and cause Fuga's range is longer than its animation. Now hit your Oka to gain 
 your second sen. You may want to move a little further back until you can make sure there are no plumes behind your hitbox. Now hit Kaiten and your Iaijistu button to do Tenka
 Goken. During the cast time start mashing Hissatsu: Guren. If all goes right you will straight up nuke all the plumes. Take a look at your parse overlay you should be at around
-10-14k dps if you hit all the adds. This next part is dependent on your party. If your party has weaker AoEs the plumes may still be alive with a few HP. In this case, double
-weave a Hissatsu: Kyuten (the 25 kenki AoE oGCD that no one uses outside of dungeons) right after the Hissastu: Guren. If your party has good AoEs then most of the plumes will be
-dead. Afterwards press your Hakaze on Garuda, switch target to the Spiny plume and press Jinpu. Right as the Jinpu hits, Garuda will screech and go untargetable. Move for the
-feather rain. You may need to inform your tank that you will be using a GCD on the spiny since it does do a significant amount of damage.  
+10-14k dps if you hit all the adds. Hit a Hakaze on Garuda and then mash Jinpu and hope you didnt delay any GCDs. If it doesn't hit then target the Spiny Plume and hit it with a Jinpu,
+Right as the Jinpu hits, Garuda will screech and go untargetable. Move for the feather rain. You may need to inform your tank that you will be using a GCD on the spiny since
+it does do a significant amount of damage.  
 
-Garuda comes back, finish with Gekko to end the combo. Weave third eye after the Gekko for the Mistral Song then move into where ever the bubble was dropped by the Spiny Plume 
+Garuda comes back. Position yourself north with the tank. Finish with Gekko to end the combo. Weave third eye after the Gekko for the Mistral Song then move into where ever the bubble was dropped by the Spiny Plume 
 and carry on with your rotation. (Hakaze, Yukikaze) but weave your Hissatsu: Seigan somewhere in between. Move out of the bubble when you see the start of the Friction cast and
-group with the 3 people assigned to be outside of the bubble. Weave a Bloodbath around this time to help your healers. 
+group with the 3 people assigned to be outside of the bubble. Weave a Bloodbath around this time to help your healers. You should be doing your 2 GCD filler right before the second DPS moves in.
 
 Mechanics wise, move in and out of the bubble on your assigned order. If you are first to enter, move 1 GCD after Friction applies its damage or when you see everyone is around 75% health.
 If you are second DPS to enter, watch the first DPS to enter, then move in immediately after you see everyone is 75% health. Our group has one of the healers saying "go" whenever he
 has healed everyone up. 
 
-Now in terms of optimizing, you do not need to use True North here since the boss should be facing towards the 5 people inside the bubble, so if you are standing at the side 
-waiting to go in, you will be naturally at the flank during your Kasha Combo. You should be entering your filler phase near the end of bubbles. At this current point you are going 
-to do your 4 GCD filler but only half of it. (Hakaze, Yukikaze, Hagakure) Now you will 4 GCDs of your rotation as per nowmal; Hakaze, Jinpu, Gekko, Hakaze, and Garuda will 
-screech and go untargetable. Dodge the feather rain but press Kaiten while moving back. When Garuda is targetable again, press Higanbana the moment you can. This will be under the Kaiten
-you did while Garuda was untargetable. Finish the lingering Hakaze with Yukikaze, Meikyo Shisui, enter your burst phase. After burst you will be doing your Kasha combo. Right when you hit KashA,
-Garuda will screech but remain targetable. You may have to strafe hit your Kasha, but just make sure you hit the Kasha but not get hit by the feather rain. Dodge the feather rain and
-stick on to Garuda. Hit your Hakaze, Yukikaze combo, position yourself at around half max melee distance while weaving Kaiten. Now press Midare. This is where fast sam pops off.
-If you mash your Yaten during the Midare cast you will always backflip out of the wicked wheel safely and directly into the party to stack for the line attack mechanic.
+Now in terms of optimizing, you do not need to use True North here since the boss should be facing towards the 5 people inside the bubble, so if you are standing at the side
+waiting to go in, you will be naturally at the flank during your Kasha Combo. You should have just pressed Hakaze and Kaiten and be ready to Higanbana after the third DPS has
+resolved the bubble mechanic. Do your Higanbana and mash Yukikaze. If you hit Jinpu before in the first screench, you should hit this as well. Garuda will screech and go untargetable just as you hit your Yukikaze.
+Dodge the feather rain but press Meikyo Shisui while moving back. When Garuda is targetable again hit your Gekko and Kasha. Use Kaiten and Midare and finish with Gekko. Continue your
+rotation as normal. Garuda will screench again but remain targetable. You should hit your Yukikaze at this time and be ready to Midare after the screech. Make sure you move and don't
+get hit by the tank's feather rain. Press Kaiten while moving, don't delay Midare and hit it after you dodged the feather rain. The GCDs should align perfectly. Hit a Hakaze Yukikaze and 
+move towards the middle to resolve the markers mechanics. Press Third Eye while moving back to the middle. 
 
-While stacking, just mash your Enpi. It should be around 3 times. Your Jinpu buff will fall off at this time. When Garuda screenches again, press your Gyoten (dash to target) right
-when you hear the screech. Immediately hit your Gekko combo to get your Jinpu back and be prepared to make adjustments to avoid the Tornado AoEs and your tank's Feather Rain if
-they are too close. 
+While stacking, use your Enpi once. Your Jinpu buff will fall off at this time but its no issue. When Garuda screeches again, press your Gyoten (dash to target) right
+when you hear the screech. This is a bit risky if your tank baits their feather rain on the boss. Running back is an option too theres not that much of a difference.
+Immediately hit your Gekko combo to get your Jinpu back and be prepared to make adjustments to avoid the Tornado AoEs. Save your Kenki at this time.
 
-Plumes will spawn soon. While moving back to the center with the tank you should have around 2 sen (gekko and ka) when you hit your Hakaze the plumes will spawn. Target any plume,
-I just press tab, move a little bit back behind the party and press Kaiten and Tenka Goken to hit all plumes and Garuda. Finish your Hakaze on Yukikaze. Use your Hissastu: Kyuten
-in-between GCDs while hitting the Fuga, Oka or Fuga, Mangestu combo. Doesn't really matter here so you can just use the one that refreshes a buff of your choice. I usually do Mangetsu
-since having Jinpu at a higher number never hurts. You can then use a Kaiten into Tenka Goken here but the adds should be dead afterwards. If not, do an AoE combo again while weaving
-Hissastu: Kyuten. Garuda will screech and go untargetable, so dodge the feather rains. All adds should be dead by the time Garuda is targetable again. 
+Plumes will spawn soon. While moving back to the center with the tank you should be just hitting 3 sen. Midare the boss. The moment you finish Midare the plumes will be in range for
+for your Hissastu: Kyuten. So weave that out of your Midare cast. Target an add and do both the AoE combos in any order, weaving a Kyuten between each GCD. The adds should die pretty
+fast. Garuda will screech but remain targetable, you should be finishing your last AoE combo at this time. Hit a Hakaze on Garuda while dodging the feather rain.
+The best way to do this is to dodge with the tank. Finish with Yukikaze and then Midare. Garuda should be basically dead at this point but if not Do any 3 GCD combo and Hagakure it immediately.
+Garuda should really be dead after doing the 3 GCD combo. If your group is low on DPS and you see Wicked Wheel, then don't Hagakure and hope you can do another Midare before the boss dies.
 
 Meikyo Shisui, Ikishoten and Hissastu: Guren will be ready at this point but hold them for Ifrit. You want to skip the tankbusters near the end of Ifrit so you want to output max
 damage to Ifrit. Our party pots on our Ifrit re-openers so I always save those 3 abilities for Ifrit. Garuda becomes a training dummy at this point so just do your rotation,
@@ -83,5 +82,7 @@ and run into the safe spot that appeared where I was looking at. If you are Drag
 
 <h3> Ifrit </h3>
 
-comming soon 
+coming soon 
+
+notes: pot on re-opener. hit positional manually. Guren the 2 nails and ifrit. 
 
