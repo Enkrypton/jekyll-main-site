@@ -55,11 +55,15 @@ has healed everyone up.
 
 Now in terms of optimizing, you do not need to use True North here since the boss should be facing towards the 5 people inside the bubble, so if you are standing at the side
 waiting to go in, you will be naturally at the flank during your Kasha Combo. You should have just pressed Hakaze and Kaiten and be ready to Higanbana after the third DPS has
-resolved the bubble mechanic. Do your Higanbana and mash Yukikaze. If you hit Jinpu before in the first screench, you should hit this as well. Garuda will screech and go untargetable just as you hit your Yukikaze.
+resolved the bubble mechanic. Do your Higanbana and mash Yukikaze. If you hit Jinpu before in the first screech, you should hit this as well. Garuda will screech and go untargetable just as you hit your Yukikaze.
 Dodge the feather rain but press Meikyo Shisui while moving back. When Garuda is targetable again hit your Gekko and Kasha. Use Kaiten and Midare and finish with Gekko. Continue your
-rotation as normal. Garuda will screench again but remain targetable. You should hit your Yukikaze at this time and be ready to Midare after the screech. Make sure you move and don't
+rotation as normal. Garuda will screech again but remain targetable. You should hit your Yukikaze at this time and be ready to Midare after the screech. Make sure you move and don't
 get hit by the tank's feather rain. Press Kaiten while moving, don't delay Midare and hit it after you dodged the feather rain. The GCDs should align perfectly. Hit a Hakaze Yukikaze and 
 move towards the middle to resolve the markers mechanics. Press Third Eye while moving back to the middle. 
+
+Skills and timing should look like this unless you were late on hitting the boss during countdown:
+
+![Ultima Weapon Ultimate Samurai Rotation Part1](/main/assets/uwu_rotation_p1.png)
 
 While stacking, use your Enpi once. Your Jinpu buff will fall off at this time but its no issue. When Garuda screeches again, press your Gyoten (dash to target) right
 when you hear the screech. This is a bit risky if your tank baits their feather rain on the boss. Running back is an option too theres not that much of a difference.
