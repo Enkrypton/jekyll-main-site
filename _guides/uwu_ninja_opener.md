@@ -43,8 +43,9 @@ A: You might kill the Spiny Plume with the Doton and you will make your Tank's l
 
 Q: Why don't you Kassastu your Katon during Plumes instead?  
 A: You would want to skip Garuda's last mechanics so it is better to do as much to Garuda in the opener. In addition to this it might be overkill on the adds since 
-your party is also hitting down these adds here. Doing Kassastu ealier on also loops better for future burst phases. You *can* skip the Kassastu in Ration and use Kassastu on Katon here
-since it is a potency gain if you really want to pad your parse, but inform your party to tone down the AOEs since a 650 potency AoE hits really hard.
+your party is also hitting down these adds here. Doing Kassastu ealier on also loops better for future burst phases.  
+You *can* skip the Kassastu in Ration and use Kassastu on Katon here since it is a potency gain if you really want to pad your parse, but inform your
+party to tone down the AOEs since a 650 potency AoE hits really hard and you might kill the Spiny Plume.
 
 Q: Raiton on pull, not Suiton? Setting up Trick with TCJ?  
 A: Mathematical calculations to explain below:
@@ -54,7 +55,7 @@ TCJ total potency is 500 + 800 + 600 = 1900, so inside Trick, TCJ will do 5% mor
 1900 * 0.05 = 95 potency.
 
 If you Suiton on pull you lose 200 potency but gain 95 potency from TCJ inside Trick.  
-If you Raition on pull you gain 200 potency but lose 95 potency from TCJ outside of Trick.
+If you Raiton on pull you gain 200 potency but lose 95 potency from TCJ outside of Trick.
 
 It is a 105 potency gain to pull with Raiton and set up Trick with TCJ.
 
