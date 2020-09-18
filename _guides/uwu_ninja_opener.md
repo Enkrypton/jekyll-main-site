@@ -28,7 +28,7 @@ Trick immediately after TCJ and Shadow Fang right after Trick. You will have 1.0
 
 Weave DWAD after Shadow Fang then Raiton, Kassastu and Raiton again. FInish with Assassinate.  
 You will have 1.0 seconds to weave Kassastu due to Ninjitsu, so be fast and don't clip the second Raiton. Don't spam your Mudra key since you might bunny.
-Hit Ten/Jin once after Kassastu and the game's skill queue will take over. Press Chi after Ten/Jin has been pressed by skill queue..
+Hit Ten/Jin once after Kassastu and the game's skill queue will take over. Press Chi after Ten/Jin has been pressed by skill queue.
 
 Finish the 1, 2, 3 now with AE and weave a mug. Then do your 1, 2, 3 again. (SE, GS, AE). Trick will end here.
 
