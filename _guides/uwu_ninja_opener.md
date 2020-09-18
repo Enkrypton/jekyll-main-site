@@ -42,7 +42,9 @@ Q: Why is there no Doton during Plumes?
 A: You might kill the Spiny Plume with the Doton and you will make your Tank's life harder if they try to avoid it. 
 
 Q: Why don't you Kassastu your Katon during Plumes instead?  
-A: It is more worth to use a Kassastu Raiton on Garuda since Trick will end during Katon. Doing Kassastu here also loops better for future burst phases.
+A: You would want to skip Garuda's last mechanics so it is better to do as much to Garuda in the opener. In addition to this it might be overkill on the adds since 
+your party is also hitting down these adds here. Doing Kassastu ealier on also loops better for future burst phases. You *can* skip the Kassastu in Ration and use Kassastu on Katon here
+since it is a potency gain if you really want to pad your parse, but inform your party to tone down the AOEs since a 650 potency AoE hits really hard.
 
 Q: Raiton on pull, not Suiton? Setting up Trick with TCJ?  
 A: Mathematical calculations to explain below:
