@@ -1,7 +1,7 @@
 ---
 layout: page
-name: Guide for Samurai and other melees on Ultima Weapon Ultimate
-title: Guide for Samurai and other melees on Ultima Weapon Ultimate
+name: Ninja level 70 opener for Ultima Weapon Ultimate
+title: Ninja level 70 opener for Ultima Weapon Ultimate
 excerpt_separator: <!--more-->
 ---
 There isn't one on Balance Discord so I made one myself.
