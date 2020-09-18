@@ -21,6 +21,7 @@ Here is the opener shown below, which goes up to when the Plumes die and Garuda 
 5 Seconds Pre-pull: Ten Chi
 
 On pull: Mudra (Ration)
+
 Move towards Garuda, SE,GS, then Set-up trick with TCJ.
 
 Trick immediately after TCJ and Shadow Fang right after Trick. You will have 1.0 seconds to weave Trick due to TCJ so be fast and don't clip Shadow Fang.
