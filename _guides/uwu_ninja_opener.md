@@ -38,16 +38,16 @@ Use Katon as your next GCD and do your Death Blossom -> Hakke Mujinsatsu if the 
 
 <h4>FAQ</h4>
 
-**Q: Why is there no Doton during Plumes?  **
+**Q: Why is there no Doton during Plumes?**  
 A: You might kill the Spiny Plume with the Doton and you will make your Tank's life harder if they try to avoid it. 
 
-**Q: Why don't you Kassastu your Katon during Plumes instead?  **
+**Q: Why don't you Kassastu your Katon during Plumes instead?**  
 A: You would want to skip Garuda's last mechanics so it is better to do as much to Garuda in the opener. In addition to this it might be overkill on the adds since 
 your party is also hitting down these adds here. Doing Kassastu ealier on also loops better for future burst phases.  
 You *can* skip the Kassastu in Ration and use Kassastu on Katon here since it is a potency gain if you really want to pad your parse, but inform your
 party to tone down the AOEs since a 650 potency AoE hits really hard and you might kill the Spiny Plume.
 
-**Q: Raiton on pull, not Suiton? Setting up Trick with TCJ?  **
+**Q: Raiton on pull, not Suiton? Setting up Trick with TCJ?**  
 A: Mathematical calculations to explain below:
 
 Raiton on pull is a 200 potency gain if used instead of Suiton.  
@@ -59,11 +59,11 @@ If you Raiton on pull you gain 200 potency but lose 95 potency from TCJ outside 
 
 It is a 105 potency gain to pull with Raiton and set up Trick with TCJ.
 
-**Q: Wait, really? How come the 80 opener uses TCJ inside Trick?  **
+**Q: Wait, really? How come the 80 opener uses TCJ inside Trick?**  
 A: Since you have Meisui at level 80 and you don't at level 70. In the opener you will Meisui the Suiton you get from TCJ and get to use a "free" Bhavacakra which is 300 potency.  
 This 300 potency makes up for the 105 potency loss from the previous question and turns it into a potency gain.
 
-**Q: Do you like Math?  **
+**Q: Do you like Math?**  
 A: Yeah. 
 
  
