@@ -50,7 +50,7 @@ Q: Raiton on pull, not Suiton? Setting up Trick with TCJ?
 A: Mathematical calculations to explain below:
 
 Raiton on pull is a 200 potency gain if used instead of Suiton.  
-TCJ total potency is 500+800+600 = 1900, so inside Trick it will do 5% more damage which is 1900 * 0.05 = 95 potency.
+TCJ total potency is 500+800+600 = 1900, so inside Trick, TCJ will do 5% more damage which is 1900 * 0.05 = 95 potency.
 
 If you Suiton on pull you lose 200 potency but gain 95 potency from TCJ inside Trick.  
 If you Raition on pull you gain 200 potency but lose 95 potency from TCJ outside of Trick.
