@@ -13,7 +13,7 @@ Current Prog: Post Annihilation
 <h3> Budget BiS </h3>
 The best budget BiS is the 2.00 GCD BiS for this current raid tier. (5.2)  
 If you got BiS for this raid tier, all you need to do is remeld and get the A.Crystarium Body piece if you don't have it.  
-![The 2.00 GCD Best in Slot for Samurai. Also known as the Fast Sam](/main/assets/sam_uwu_bis.png)
+![The 2.00 GCD Best in Slot for Samurai. Also known as the Fast Sam](/main/assets/samurai_uwu/sam_uwu_bis.png)
 
 Theres a better BiS for this fight that requires you to farm Stormblood dungeons, you can view it [here](https://bit.ly/Community-BIS).
 <h3> Garuda </h3>
