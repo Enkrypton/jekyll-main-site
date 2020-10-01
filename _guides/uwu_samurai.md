@@ -1,96 +1,124 @@
 ---
 layout: page
-name: Guide for Samurai and other melees on Ultima Weapon Ultimate
-title: Guide for Samurai and other melees on Ultima Weapon Ultimate
+name: Samurai Guide and Openers for Ultima Weapon Ultimate
+title: Samurai Guide and Openers for Ultima Weapon Ultimate
 excerpt_separator: <!--more-->
 ---
-Low rDPS but still top aDPS
+Crippled weeb job verses primals and big robot
 <!--more-->
 
-This is a WIP guide I will update as I progress through UWU.
-
-I am currently on Titan Gaols dealing a consistent 8k aDPS.
-This guide is MAINLY meant to teach samurai players how to pad their parse and optimize their uptime.  
-I recommend the reader to have a basic idea of how to do this raid before reading on but this guide still goes over EXACTLY what you need to do as a melee player.
+This is a WIP guide I will update as I progress through UWU.  
+Current Prog: Post Annihilation
 
 <h3> Budget BiS </h3>
-The best budget BiS is the 2.00 GCD BiS for this current raid tier. (5.2) If you got BiS for this raid tier, all you need to do is remeld and get the A.Crystarium Body
-piece if you don't have it.  
-Since Samurai GCD speed is very important dealing with the timeline of the raid. This is the BiS I will be making this guide in. This means my timeline and timings will be
-based off the 2.00 SYNC GCD in this raid which is 2.11. If you already have this BiS you can skip to Garuda since I just explain why 2.00 GCD is the preferred BiS.
+The best budget BiS is the 2.00 GCD BiS for this current raid tier. (5.2)  
+If you got BiS for this raid tier, all you need to do is remeld and get the A.Crystarium Body piece if you don't have it.  
 ![The 2.00 GCD Best in Slot for Samurai. Also known as the Fast Sam](/main/assets/sam_uwu_bis.png)
-There exists a slightly better 1.92 BiS that requires you to farm Stormblood Dungeons but the quickest and best BiS to get with minimal farm is the current 2.00 GCD BiS. Fast Samurai
-in UWU especially with sync is very much better than slow samurai since crits can very much mess you up during some mechanics, namely Garuda Plumes and Ifrit nails... and yes
-when I did this fight as slow sam on the 2.14 GCD BiS I have crit my midare on an Ifrit nail which blew up instantly as well as completely nuking the Spiny Plume with Hissastu: Guren.  
-So I say your best bet is fast sam with the 2.00 GCD is you are too lazy to farm. It does more DPS overall than slow sam on sync as well. 
 
+Theres a better BiS for this fight that requires you to farm Stormblood dungeons, you can view it [here](https://bit.ly/Community-BIS).
 <h3> Garuda </h3>
-This is probably the easist place to pad.
-
-Sprint when you see the countdown change from 2 to 1. Then make sure you hit the boss as early as possible without early pulling.
-Depending on how your group does it, move to opposite of the OT to avoid the line attack and dodge the green tornado AoE afterwards. This is during your opener which is
-the EXACT same as the level 80 opener but you must save your Hissatsu: Guren here. This is your AoE line attack that does 850 potency with a 120 second cooldown which also costs
-50 kenki. You lose your Hissatsu: Senei at level 70 but in both Garuda and Ifrit using Hissatsu: Guren is better so its not really a big deal. 
-
-You will finish your opener and at this time the plumes will spawn and move right as you hit your Gekko. As the plumes move towards the party you will be in your GCD so start
-mashing your Fuga right away while moving slightly more behind the party. You will have 90 Kenki at this point since you saved your Hissatsu: Guren. It will be tempting to use
-Shinten but don't. You will hit most or all of the plumes if you moved slightly behind the party and cause Fuga's range is longer than its animation. Now hit your Oka to gain 
-your second sen. You may want to move a little further back until you can make sure there are no plumes behind your hitbox. Now hit Kaiten and your Iaijistu button to do Tenka
-Goken. During the cast time start mashing Hissatsu: Guren. If all goes right you will straight up nuke all the plumes. Take a look at your parse overlay you should be at around
-10-14k dps if you hit all the adds. Hit a Hakaze on Garuda and then mash Jinpu and hope you didnt delay any GCDs. If it doesn't hit then target the Spiny Plume and hit it with a Jinpu,
-Right as the Jinpu hits, Garuda will screech and go untargetable. Move for the feather rain. You may need to inform your tank that you will be using a GCD on the spiny since
-it does do a significant amount of damage.
-
-The opener up to this point looks like this:
 
 ![Ultima Weapon Ultimate Samurai Opener](/main/assets/uwu_opener.png)
 
-Garuda comes back. Position yourself north with the tank. Finish with Gekko to end the combo. Weave third eye after the Gekko for the Mistral Song then move into where ever the bubble was dropped by the Spiny Plume 
-and carry on with your rotation. (Hakaze, Yukikaze) but weave your Hissatsu: Seigan somewhere in between. Move out of the bubble when you see the start of the Friction cast and
-group with the 3 people assigned to be outside of the bubble. Weave a Bloodbath around this time to help your healers. You should be doing your 2 GCD filler right before the second DPS moves in.
+Depending on your skill speed you may not be able to fit in Hakaze or Jinpu. Either way, continue your rotation on as normal after the untargetable phase
 
-Mechanics wise, move in and out of the bubble on your assigned order. If you are first to enter, move 1 GCD after Friction applies its damage or when you see everyone is around 75% health.
-If you are second DPS to enter, watch the first DPS to enter, then move in immediately after you see everyone is 75% health. Our group has one of the healers saying "go" whenever he
-has healed everyone up. 
 
-Now in terms of optimizing, you do not need to use True North here since the boss should be facing towards the 5 people inside the bubble, so if you are standing at the side
-waiting to go in, you will be naturally at the flank during your Kasha Combo. You should have just pressed Hakaze and Kaiten and be ready to Higanbana after the third DPS has
-resolved the bubble mechanic. Do your Higanbana and mash Yukikaze. If you hit Jinpu before in the first screech, you should hit this as well. Garuda will screech and go untargetable just as you hit your Yukikaze.
-Dodge the feather rain but press Meikyo Shisui while moving back. When Garuda is targetable again hit your Gekko and Kasha. Use Kaiten and Midare and finish with Gekko. Continue your
-rotation as normal. Garuda will screech again but remain targetable. You should hit your Yukikaze at this time and be ready to Midare after the screech. Make sure you move and don't
-get hit by the tank's feather rain. Press Kaiten while moving, don't delay Midare and hit it after you dodged the feather rain. The GCDs should align perfectly. Hit a Hakaze Yukikaze and 
-move towards the middle to resolve the markers mechanics. Press Third Eye while moving back to the middle. 
-
-Skills and timing should look like this unless you were late on hitting the boss during countdown:
-
-![Ultima Weapon Ultimate Samurai Rotation Part1](/main/assets/uwu_rotation_p1.png)
-
-While stacking, use your Enpi once. Your Jinpu buff will fall off at this time but its no issue. When Garuda screeches again, press your Gyoten (dash to target) right
-when you hear the screech. This is a bit risky if your tank baits their feather rain on the boss. Running back is an option too theres not that much of a difference.
-Immediately hit your Gekko combo to get your Jinpu back and be prepared to make adjustments to avoid the Tornado AoEs. Save your Kenki at this time.
-
-Plumes will spawn soon. While moving back to the center with the tank you should be just hitting 3 sen. Midare the boss. The moment you finish Midare the plumes will be in range for
-for your Hissastu: Kyuten. So weave that out of your Midare cast. Target an add and do both the AoE combos in any order, weaving a Kyuten between each GCD. The adds should die pretty
-fast. Garuda will screech but remain targetable, you should be finishing your last AoE combo at this time. Hit a Hakaze on Garuda while dodging the feather rain.
-The best way to do this is to dodge with the tank. Finish with Yukikaze and then Midare. Garuda should be basically dead at this point but if not Do any 3 GCD combo and Hagakure it immediately.
-Garuda should really be dead after doing the 3 GCD combo. If your group is low on DPS and you see Wicked Wheel, then don't Hagakure and hope you can do another Midare before the boss dies.
-
-Meikyo Shisui, Ikishoten and Hissastu: Guren will be ready at this point but hold them for Ifrit. You want to skip the tankbusters near the end of Ifrit so you want to output max
-damage to Ifrit. Our party pots on our Ifrit re-openers so I always save those 3 abilities for Ifrit. Garuda becomes a training dummy at this point so just do your rotation,
-kill Garuda, and go next phase. If you and your party are doing good you will always almost skip the Wicked Wheel which is just a telegraphed point blank and an "get near the boss" mechanic. 
-
-<h3> Transition Phase 1 </h3>
-Healer will get the Beyond Limits, so don't accidentally take it. If you have any sen, you want to Hagakure it right away, you want to do a clean re-opener to align with buffs and your pot.
-Move to the center of the stage and press the following abilities in order:  
-Hagakure -> Sprint -> Meditate
-
-The way I do this mechanic is I rotate my camera around to find Ifrit. Then I move my camera either left or right and look closely. The second I see a small blob of fire appear
-the side I am looking at, I 180 my camera and hold W until I am at the safe spot which is opposite of the side I was looking at. If I do not see a blob of fire, I just hold W 
-and run into the safe spot that appeared where I was looking at. If you are Dragoon just backflip there, it places you right at the safe spot. Ninjas can also directly TP to the safe spot.
+*  Make sure to use Ikishoten as soon as possible without overcapping in this phase
+*  You can Third Eye the first Mistral Shriek once Garuda comes back, use it at around 25% of the cast bar 
+*  Dodge feather rain to the North and stay North since Garuda will reappear facing South and does no cleaves at this time
+*  You can Third Eye the SECOND friction if you did the above. Use this right when you see the cast or even before since Friction casts very fast
+*  You can pop Bloodbath right as the Bubble appears to help out healers
+*  The best way to figure out when to enter the bubble (regardless of order) is to just make sure the party is higher than 80% health including shields
+*  You can Third Eye the Mistral Shriek that happens right after the Feather Rain, popping it 1 GCD after Garuda is targetable
+*  Stay up from with the Tank after the above Mistral Shriek since Garuda will be facing South and does no cleaves, this also makes it easier to move with the tank
+*  You can Third Eye the targeted line AoEs at around 80% of the Wicked Wheel cast
+*  Keep an eye on your tanks and reengage away from where they come from to avoid their feather rains
+*  Start to save Kenki at this point to spend it on Kyuten during plumes
+*  Use Ikishoten as soon as it is available after the Kyuten spam so it will come off cooldown during nails in Ifrit
+*  Do not use Meikyo when it comes off cooldown at this time, safe it for the re-opener in Ifrit
+*  Don't waste Kenki if Garuda is at 0.1% HP and casting, get some extra Sen or refresh your buffs
+*  You can meditate 10-20 Kenki while waiting for the Ifrit dash safe spot
+*  Hagakure any Sen, most groups use 2 miniute buffs and pots on Ifrit so a clean re-opener would be ideal
 
 <h3> Ifrit </h3>
 
-coming soon 
+![Reopener for Ifrit](/main/assets/uwu_ifrit_reopener.png)
 
-notes: pot on re-opener. hit positional manually. Guren the 2 nails and ifrit. 
+You will enter Ifrit with a large amount of Kenki. Shinten shown in opener is recommended placement for usage if you are about to overcap.  
+The opener is Jinpu first due to Shinten usage and the player may have Shifu and Jinpu still active at this time.
+
+*  Third Eye as shown in the opener, you have 1 GCD worth of time to Third Eye the Hellfire
+*  Most groups Pot on this phase to skip additional Tank Busters at the end, so as you would normally pot in the opener
+*  You will be weaving every GCD at the start of this opener so save your Seigan and don't double weave on accident
+*  Use Shinten at shown placements in the opener if you are going to overcap
+*  Arms length is group dependent, most groups shield but the placement shown in the opener works well timing and weaving wise
+*  If you Ikishoten immediately off cooldown in Garuda it will be up right as nails spawn, use this immediately as well without over capping 
+*  Use the Kenki either gained from Ikitshoten (or saved up) to Guren the two front nails and Ifrit, the tanks need to pull Ifrit in-between the nails and you need to place
+yourself to the left or right of the nails like so, and target the nail:
+![Place to stand to hit both nails and Ifrit](/main/assets/ifrit_placement.png)
+*  Depending on the group you can also place yourself in the middle of Ifrit's hitbox, while targeting Ifrit and do your AoE combo and weave Kyuten in-between to hit both nails and Ifrit
+*  When the first nail grows big, wait one GCD and press your Third Eye to get a Seigan proc. You may want to plan with your group to consistently get this off.
+*  When Ifrit jumps and comes back, Third Eye again after one GCD for the Hellfire, it will be up before then
+*  You can hit positionals up until you see the ranged Eruption baiters join up with the group, hit flanks AWAY from the Searing Healer
+*  You may want to start saving True North stacks for Titan at around here
+*  You can hit a Feint around here to help out Tanks/Healers
+*  You can consistently Third Eye the Flaming Crush 2 GCDs after seeing the marker appear 
+*  During Ifrit dash phase, you can Meditate for 10-30 Kenki depending on shifting over one spot or not, make sure to Sprint out of Meditate if it is a two spot movement
+*  Keep hitting Ifrit for extra resources until it dies, do not spend Kenki unless overcapping. You also want to prioritize refreshing buffs (Jinpu > Shifu) (it should be almost dead before the dashes)
+*  Third eye 2-3 seconds after Ifrit dies to proc your Seigan from Titan's Geocrush, make sure you are at the wall
+
+<h3> Titan </h3>
+
+Foreword: Things here get a bit inconsistent due to Ifrit killing times. Things like Tank Tethers, Eruption baiters and random Crits on nails can make Ifrit killing times very inconsistent.
+
+Your opener here depends on the amount of Sen you have right before killing Ifrit:  
+If you have 1 or 2 Sen, press Hagakure and do REOPENER 2
+If you have 3 Sen, do REOPENER 1
+If you have 3 Sen less than 10 Kenki, you messed up. Press Hagakure and do REOPENER 2
+
+<h4> REOPENER 1 </h4>
+
+![Titan re-opener1](/main/assets/uwu_titan_reopener1.png)
+
+You will have approximately 8 GCDs before the plumes first appear, so you can replace the last Hakaze > Jinpu with Kaiten > Higanbana if you are able to slidecast it moving back from second plumes
+
+<h4> REOPENER 2 </h4>
+
+![Titan re-opener1](/main/assets/uwu_titan_reopener2.png)
+
+You will have approximately 8 GCDs before the plumes first appear, you may have to slidecast your Higanbana
+
+<h4> After first jump </h4>
+
+*  Find the safe wall and hit Third Eye. The timing is around 4-5 seconds after seeing Titan jump
+*  Move up to Titan and hit Guren while moving there, it should be up
+*  Finish your combo and/or refresh your lowest buff while weaving your Seigan somewhere in-between
+*  After knockbacks I personally find it easier to use your Gap Closer then move out of landslides so they are baited down the middle 
+*  If you are getting jailed, as a Melee you should be at the top of the jails priority list, so if you used your Gap Closer you can dodge landslides and easily move in to place
+*  If you are second jail (due to another melee higher on the priority for jails) then do not gap close and move into place 
+*  Use True North after jails since Titan will be on the wall
+*  You can Third Eye the Tumults here
+*  Save Meikyo Shisui when it comes off cooldown here since Titan will do Awoken Landslides and Geocrush shortly after the plumes
+*  You will still be wanting to use Ikishoten off cooldown without overcapping
+*  DO NOT GREED AWOKEN LANDSLIDE. **MAX MELEE IS NOT SAFE.** Move away and dodge fast.
+*  You can use Enpi if you are not in the middle of a combo during Awoken Landslides
+*  You can Third Eye the Second Geocrush with similar 4-5 second timing after the jump
+*  Do your rotation as per normal here as if you have your burst, use Meikyo Shisui and so forth
+*  Hit the healer jail with Midare if it will not cost you a GCD, otherwise use it on Titan then focus the Healer jail
+*  Use Feint after the 4th or 5th Tumult here if your Tank is not using invuln here, these tank busters hit hard and you can help out by using Feint
+*  After seeing the "table-flipper" tank buster you can run up with your tanks if you do Mario Kart strat for uptime
+*  Third Eye any Tumults that happen for free Seigan procs
+*  You can delay Iaijitsus during plumes if you are unsure about slidecasting, the safest time to Iaijitsu is right when the plumes spawn
+*  You can Third Eye Magitek Bits' initial hit as well, the timing is 5-6 seconds after seeing the AoE marker
+
+<h3> Final Transition </h3>
+
+*  Hit Magitek Bits for Kenki and Sen
+*  Seigan the Magitek Bits if you proc the Third Eye, or Merciful Eyes too. Doesn't really matter since the proc wont last to Ultima
+*  If you are the Melee LB you can hit 3 GCDs before having to LB.  
+**DOOM OF THE LIVINGGGGGGGGGGGG**
+
+<h3> The Ultima Weapon </h3>
+
+wip 
 
