@@ -116,9 +116,9 @@ You will have approximately 8 GCDs before the plumes first appear, you may have 
 *  Hit Magitek Bits for Kenki and Sen
 *  Seigan the Magitek Bits if you proc the Third Eye, or Merciful Eyes too. Doesn't really matter since the proc wont last to Ultima
 *  If you are the Melee LB you can hit 3 GCDs before having to LB.  
-**DOOM OF THE LIVINGGGGGGGGGGGG**
+*  You can meditate the full duration after the LB
 
 <h3> The Ultima Weapon </h3>
 
-wip 
+wip
 
