@@ -55,7 +55,7 @@ The opener is Jinpu first due to Shinten usage and the player may have Shifu and
 *  If you Ikishoten immediately off cooldown in Garuda it will be up right as nails spawn, use this immediately as well without over capping 
 *  Use the Kenki either gained from Ikitshoten (or saved up) to Guren the two front nails and Ifrit, the tanks need to pull Ifrit in-between the nails and you need to place
 yourself to the left or right of the nails like so, and target the nail:
-![Place to stand to hit both nails and Ifrit](/main/assets/ifrit_placement.png)
+![Place to stand to hit both nails and Ifrit](/main/assets/samurai_uwu/ifrit_placement.png)
 *  Depending on the group you can also place yourself in the middle of Ifrit's hitbox, while targeting Ifrit and do your AoE combo and weave Kyuten in-between to hit both nails and Ifrit
 *  When the first nail grows big, wait one GCD and press your Third Eye to get a Seigan proc. You may want to plan with your group to consistently get this off.
 *  When Ifrit jumps and comes back, Third Eye again after one GCD for the Hellfire, it will be up before then
