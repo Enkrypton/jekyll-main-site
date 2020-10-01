@@ -18,7 +18,7 @@ If you got BiS for this raid tier, all you need to do is remeld and get the A.Cr
 Theres a better BiS for this fight that requires you to farm Stormblood dungeons, you can view it [here](https://bit.ly/Community-BIS).
 <h3> Garuda </h3>
 
-![Ultima Weapon Ultimate Samurai Opener](/main/assets/uwu_opener.png)
+![Ultima Weapon Ultimate Samurai Opener](/main/assets/samurai_uwu/uwu_opener.png)
 
 Depending on your skill speed you may not be able to fit in Hakaze or Jinpu. Either way, continue your rotation on as normal after the untargetable phase
 
@@ -42,7 +42,7 @@ Depending on your skill speed you may not be able to fit in Hakaze or Jinpu. Eit
 
 <h3> Ifrit </h3>
 
-![Reopener for Ifrit](/main/assets/uwu_ifrit_reopener.png)
+![Reopener for Ifrit](/main/assets/samurai_uwu/uwu_ifrit_reopener.png)
 
 You will enter Ifrit with a large amount of Kenki. Shinten shown in opener is recommended placement for usage if you are about to overcap.  
 The opener is Jinpu first due to Shinten usage and the player may have Shifu and Jinpu still active at this time.
@@ -64,7 +64,7 @@ yourself to the left or right of the nails like so, and target the nail:
 *  You can hit a Feint around here to help out Tanks/Healers
 *  You can consistently Third Eye the Flaming Crush 2 GCDs after seeing the marker appear 
 *  During Ifrit dash phase, you can Meditate for 10-30 Kenki depending on shifting over one spot or not, make sure to Sprint out of Meditate if it is a two spot movement
-*  Keep hitting Ifrit for extra resources until it dies, do not spend Kenki unless overcapping. You also want to prioritize refreshing buffs (Jinpu > Shifu) (it should be almost dead before the dashes)
+*  Keep hitting Ifrit for extra resources until it dies, do not spend Kenki unless overcapping. You also want to prioritize refreshing buffs (Jinpu > Shifu)
 *  Third eye 2-3 seconds after Ifrit dies to proc your Seigan from Titan's Geocrush, make sure you are at the wall
 
 <h3> Titan </h3>
@@ -72,19 +72,19 @@ yourself to the left or right of the nails like so, and target the nail:
 Foreword: Things here get a bit inconsistent due to Ifrit killing times. Things like Tank Tethers, Eruption baiters and random Crits on nails can make Ifrit killing times very inconsistent.
 
 Your opener here depends on the amount of Sen you have right before killing Ifrit:  
-If you have 1 or 2 Sen, press Hagakure and do REOPENER 2
-If you have 3 Sen, do REOPENER 1
-If you have 3 Sen less than 10 Kenki, you messed up. Press Hagakure and do REOPENER 2
+If you have 1 or 2 Sen, press Hagakure and do REOPENER 2  
+If you have 3 Sen, do REOPENER 1  
+If you have 3 Sen less than 10 Kenki, you messed up. Press Hagakure and do REOPENER 2  
 
 <h4> REOPENER 1 </h4>
 
-![Titan re-opener1](/main/assets/uwu_titan_reopener1.png)
+![Titan re-opener1](/main/assets/samurai_uwu/uwu_titan_reopener1.png)
 
 You will have approximately 8 GCDs before the plumes first appear, so you can replace the last Hakaze > Jinpu with Kaiten > Higanbana if you are able to slidecast it moving back from second plumes
 
 <h4> REOPENER 2 </h4>
 
-![Titan re-opener1](/main/assets/uwu_titan_reopener2.png)
+![Titan re-opener1](/main/assets/samurai_uwu/uwu_titan_reopener2.png)
 
 You will have approximately 8 GCDs before the plumes first appear, you may have to slidecast your Higanbana
 
@@ -104,9 +104,9 @@ You will have approximately 8 GCDs before the plumes first appear, you may have 
 *  You can use Enpi if you are not in the middle of a combo during Awoken Landslides
 *  You can Third Eye the Second Geocrush with similar 4-5 second timing after the jump
 *  Do your rotation as per normal here as if you have your burst, use Meikyo Shisui and so forth
-*  Hit the healer jail with Midare if it will not cost you a GCD, otherwise use it on Titan then focus the Healer jail
-*  Use Feint after the 4th or 5th Tumult here if your Tank is not using invuln here, these tank busters hit hard and you can help out by using Feint
-*  After seeing the "table-flipper" tank buster you can run up with your tanks if you do Mario Kart strat for uptime
+*  Hit the Healer jail with Midare if it will not cost you a GCD, otherwise use it on Titan then focus the Healer jail
+*  Use Feint after the 4th or 5th Tumult here if your Tank is not using invuln, these tank busters are physical damage and you can help out by using Feint
+*  After seeing the "table-flipper" tank buster you can run up with your tanks if your group does Mario Kart strat for uptime, make sure to use Sprint to make things easier
 *  Third Eye any Tumults that happen for free Seigan procs
 *  You can delay Iaijitsus during plumes if you are unsure about slidecasting, the safest time to Iaijitsu is right when the plumes spawn
 *  You can Third Eye Magitek Bits' initial hit as well, the timing is 5-6 seconds after seeing the AoE marker
