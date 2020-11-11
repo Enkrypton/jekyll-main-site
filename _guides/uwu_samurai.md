@@ -4,11 +4,12 @@ name: Samurai Guide and Openers for Ultima Weapon Ultimate
 title: Samurai Guide and Openers for Ultima Weapon Ultimate
 excerpt_separator: <!--more-->
 ---
-Crippled weeb job verses primals and big robot
+Crippled weeb job verses primals and big mecha
 <!--more-->
 
-This is a WIP guide I will update as I progress through UWU.  
-Current Prog: Post Annihilation
+<h3>POV Video</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lxlIBfFLMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3> Budget BiS </h3>
 The best budget BiS is the 2.00 GCD BiS for this current raid tier. (5.2)  
@@ -100,8 +101,10 @@ You will have approximately 8 GCDs before the plumes first appear, you may have 
 *  You can Third Eye the Tumults here
 *  Save Meikyo Shisui when it comes off cooldown here since Titan will do Awoken Landslides and Geocrush shortly after the plumes
 *  You will still be wanting to use Ikishoten off cooldown without overcapping
-*  DO NOT GREED AWOKEN LANDSLIDE. **MAX MELEE IS NOT SAFE.** Move away and dodge fast.
-*  You can use Enpi if you are not in the middle of a combo during Awoken Landslides
+*  Awoken Landslide safe spot is to move into the first non-diagonal landslides at max-melee range as close to the middle of the landslide as possible
+
+![Awoken Landslide Safespot](/main/assets/samurai_uwu/titan_safespot.png)
+
 *  You can Third Eye the Second Geocrush with similar 4-5 second timing after the jump
 *  Do your rotation as per normal here as if you have your burst, use Meikyo Shisui and so forth
 *  Hit the Healer jail with Midare if it will not cost you a GCD, otherwise use it on Titan then focus the Healer jail
@@ -109,16 +112,105 @@ You will have approximately 8 GCDs before the plumes first appear, you may have 
 *  After seeing the "table-flipper" tank buster you can run up with your tanks if your group does Mario Kart strat for uptime, make sure to use Sprint to make things easier
 *  Third Eye any Tumults that happen for free Seigan procs
 *  You can delay Iaijitsus during plumes if you are unsure about slidecasting, the safest time to Iaijitsu is right when the plumes spawn
+*  Guren comes back around here, I recommend saving it for Ultima unless your group really needs to push Titan to avoid the last Tankbusters
 *  You can Third Eye Magitek Bits' initial hit as well, the timing is 5-6 seconds after seeing the AoE marker
 
 <h3> Final Transition </h3>
 
-*  Hit Magitek Bits for Kenki and Sen
-*  Seigan the Magitek Bits if you proc the Third Eye, or Merciful Eyes too. Doesn't really matter since the proc wont last to Ultima
-*  If you are the Melee LB you can hit 3 GCDs before having to LB.  
+*  Hit Magitek Bits for Kenki and Sen, you should be able to fit in 3 GCDs, Prioritize getting the Ka Sen
+*  Use Merciful Eyes if you want, don't waste a 15 Kenki Seigan on the bits. The Third Eye proc won't last to Ultima
+*  If you are the Melee LB you can hit 3 GCDs before having to LB. If you don't have Setsu Sen, hit Hakaze, Yukikaze, Hakaze and LB immediately. 
+*  If you are not the Melee LB you can get your missing 2 sen just by keep hitting Lahabrea
 *  You can meditate the full duration after the LB
+*  Idealistically you should be 100 Kenki with 3 Sen
+*  At minimum you should be 2 Sen (Setsu and Ka) and over 50 Kenki
 
 <h3> The Ultima Weapon </h3>
 
-wip
+Reopening for Ultima is somewhat inconsistent but you should be at 2 Sen (Setsu and Ka) or 3 Sen and well over 50 Kenki if not capped.  
+Idealistically its good to be at 3 sen.
+Things also change depending on if you saved Guren from Titan or not, but as you consistently clear Titan you should not have to Guren in Titan.
+
+The ideal 3 sen opener goes as follows, (Fit Seigan where ever works for you. Shinten as much as possible after using Ikishoten):
+
+![Ultima re-opener](/main/assets/samurai_uwu/ultima_reopener.png)
+
+Note that Shifu and Higanbana are not used. There is some math behind this but basically:  
+* Midare and Guren are used under Jinpu to get the damage up buff right away
+* You may have excess Kenki to use on Shinten which benefits from only Jinpu
+* It is possible to do your Kasha combo before using Meikyo but you risk Ultima phasing and the final Midare will miss some raid buffs
+* Having a late Shifu makes it so you enter Ultima after Predation with a good 20 seconds left on Shifu allowing you to get Jinpu back right away
+* Higanbana will not tick the whole duration making it a DPS loss to use
+
+<h4>Post-predation</h4>
+* You can hit positionals until the Radiant Plumes come out
+* You will be always at Melee range for this entire mechanic
+* Melee range for the double awoken landslide after plumes as close to the corner of the connecting landslides as possible
+* You pretty much want to be using True North whenever you need to hit a positional here
+
+<h4> Ultimate Annihilation </h4>
+* You cannot Midare on the first plume cause Ultima becomes targetable a bit after the plume appears, delay Midare to the second plume then slidecast to dodge the second plume
+* You can Third Eye the Flaming Crush
+* You can move for the "Hard Annihilation Mechanic" right after Ifrit dashes and move back in right after seeing the landslides go off
+* You can Third Eye the Tank Purge
+* Nothing really happens after unless you don't push Suppresion right away, if that happens make sure to use your gap closer to cancel the knockback since you want to save Arms Length for Aetheric Boom
+
+<h4> Suppression - Eruptions </h4>
+* You can press Third Eye after the Eruptions drop for a proc to use Seigan on the gaol
+* Walk along the edge of the last Eruption to limit distance between you and the gaol
+
+<h4> Suppression - Gaol </h4>
+* At least you got the easiest mechanic
+
+<h4> Suppression - Mistral </h4>
+* You can press Third Eye as you arrive with the tanks to get a proc to use Seigan on the gaol
+* You can Enpi the Gaol once without losing a GCD while moving towards it
+* Don't gap close cause theres still Feather Rains
+
+<h4> Suppression - Light Pillar </h4>
+* You can press Third Eye as you arrive with the tanks to get a proc to use Seigan on the gaol
+* Arc upwards to do the mechanic correctly but you can gap close as soon as you are over half away point the half circle you are supposed to bait the light pillar around
+
+<h4> Post-Suppression </h4>
+* You can Third Eye the Flaming Crush
+* Use Meditate right after the Feather Rain
+
+<h4>Aetheric Boom</h4>
+* Arms Length timing is around 50% of the cast bar
+* Depending on your party, you can stand in the middle of the stage slightly to the north-east to still hit Ultima and still be inside your Aetheric Bubble
+
+<h3>Primal Roulettes</h3>
+* You don't ever leave the boss at this point, full focus your rotation and do the mechanics
+* Every Primal ends with a Raidwide with Third Eye timings as follows:  
+Ifrit - 7 Seconds after Afterburner  
+Garuda - 6 Seconds after Wicked Wheel  
+Titan - 5 Seconds after the last Plume resolves
+
+<h3> Enrage </h3>
+Pot, Buff, and Win. If all went well, you don't even need to LB. 
+
+![Duty Complete!](/main/assets/samurai_uwu/duty_complete.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
