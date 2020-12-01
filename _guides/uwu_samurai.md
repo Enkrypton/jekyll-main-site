@@ -4,7 +4,7 @@ name: Samurai Guide and Openers for Ultima Weapon Ultimate
 title: Samurai Guide and Openers for Ultima Weapon Ultimate
 excerpt_separator: <!--more-->
 ---
-Crippled weeb job verses primals and big mecha
+How to greed everything and land every Third Eye
 <!--more-->
 
 <h3>POV Video</h3>
