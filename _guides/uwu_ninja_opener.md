@@ -1,7 +1,7 @@
 ---
 layout: page
-name: Ninja level 70 opener for Ultima Weapon Ultimate
-title: Ninja level 70 opener for Ultima Weapon Ultimate
+name: Level 70 Ninja opener for Ultima Weapon Ultimate
+title: Level 70 Ninja opener for Ultima Weapon Ultimate
 excerpt_separator: <!--more-->
 ---
 There isn't one on Balance Discord so I made one myself.

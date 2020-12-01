@@ -1,7 +1,7 @@
 ---
 layout: page
-name: Eden's Promise 1: [Name] Guide
-title: Eden's Promise 1: [Name] Guide
+name: E9S Guide
+title: E9S Guide
 excerpt_separator: <!--more-->
 ---
 Placeholder Page for future Eden's Promise raids
