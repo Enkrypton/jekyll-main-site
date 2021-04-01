@@ -5,7 +5,8 @@ permalink: /character/
 ---
 
 ## In-game Screenshots  
-## ゲームのスクリーンショット
+## スクショ
+## 스크린 샷 
 
 ![Front](/main/assets/ffxiv_character/front.png)
 
@@ -30,7 +31,8 @@ permalink: /character/
 ![Sword Out Front Pose](/main/assets/ffxiv_character/sheath.png)
 
 ## Illustrations  
-## イラスト
+## イラスト 
+## 삽화 
 
 ![Commission 1](/main/assets/ffxiv_character/comm1.png)
 
