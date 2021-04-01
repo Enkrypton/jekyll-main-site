@@ -4,7 +4,8 @@ title: Final Fantasy XIV Character Reference
 permalink: /character/
 ---
 
-## In-game Screenshots/ゲームのスクリーンショット
+## In-game Screenshots  
+## ゲームのスクリーンショット
 
 ![Front](/main/assets/ffxiv_character/front.png)
 
@@ -28,7 +29,8 @@ permalink: /character/
 
 ![Sword Out Front Pose](/main/assets/ffxiv_character/sheath.png)
 
-## Illustrations/イラスト
+## Illustrations  
+## イラスト
 
 ![Commission 1](/main/assets/ffxiv_character/comm1.png)
 ![Commission 2](/main/assets/ffxiv_character/comm2.png)
