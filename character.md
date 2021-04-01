@@ -33,7 +33,10 @@ permalink: /character/
 ## イラスト
 
 ![Commission 1](/main/assets/ffxiv_character/comm1.png)
+
 ![Commission 2](/main/assets/ffxiv_character/comm2.png)
+
 ![Commission 3](/main/assets/ffxiv_character/comm3.png)
+
 ![Commission 4](/main/assets/ffxiv_character/comm4.png)
 
