@@ -38,6 +38,8 @@ permalink: /character/
 
 ## Illustrations  / イラスト / 삽화 
 
+![Commission 5](/main/assets/ffxiv_character/comm6.png)
+
 ![Commission 5](/main/assets/ffxiv_character/comm5.png)
 
 ![Commission 4](/main/assets/ffxiv_character/comm1.png)
